@@ -1,11 +1,11 @@
-ESP-IDF template app
+MR. SHURUP
 ====================
 
-This is a template application to be used with [Espressif IoT Development Framework](https://github.com/espressif/esp-idf).
+this is an ai asistant verity from minecraft
 
-Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) for getting started instructions.
+BUT REAL?!?!?!
+yeah just download ESP IDF there is link ===> 🔗https://developer.espressif.com/tags/esp-idf/
 
-*Code in this repository is in the Public Domain (or CC0 licensed, at your option.)
-Unless required by applicable law or agreed to in writing, this
-software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
-CONDITIONS OF ANY KIND, either express or implied.*
+AND YOU,YES YOU,YOU MUST BUY SPEAKER ESP 32 AND PAM8406
+
+
