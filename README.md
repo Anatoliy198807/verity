@@ -9,3 +9,4 @@ yeah just download ESP IDF there is link ===> 🔗https://developer.espressif.co
 AND YOU,YES YOU,YOU MUST BUY SPEAKER ESP 32 AND PAM8406
 
 
+it isn't built pls build this with using esp idf
